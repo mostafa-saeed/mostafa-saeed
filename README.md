@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡⚡ I’m currently comitting on the #100DaysOfCode Challenge. Read more about my journey [here](https://github.com/mostafa-saeed/100-days-of-code#ive-joined-the-100daysofcode-challenge)
+
 <!--
 **mostafa-saeed/mostafa-saeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
